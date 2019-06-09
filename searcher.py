@@ -67,19 +67,6 @@ def getContainerClass():
 """
 
 
-    """
-    container = soup.find(class_=italia_class)
-    print("Filtro per Italia")
-    italia = container.find_all(italia_class)
-    print(str(italia))
-    print("*************")
-    print("*************")
-    print("*************")
-    print("Filtro per Lazio")    
-    lazio = container.find_all(class_=regione_class)
-    print(str(lazio))
-    """
-
 if __name__ == '__main__':
     getContainerClass()
 
