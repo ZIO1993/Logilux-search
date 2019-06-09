@@ -35,14 +35,25 @@ def getContainerClass():
     page = requests.get(url)
     soup = BeautifulSoup(page.text, 'html.parser')
     soup = soup.find(id="js-grid-blog-posts")
-    #soup = soup.find_all(class_="cbn-offerta")
-    soup = soup.find_next(class_="cbp-offerta cbp-item cbp-item-fix italia")
-    while soup != None:
-        print(str(soup))
-        print(str(type(soup)))
-        with open("page_soup.html", 'w') as file:
-            file.write(str(soup.prettify()))
-        soup = soup.find_next(class_="cbp-offerta cbp-item cbp-item-fix italia")    
+    lazio_soup=soup
+    italia_soup=soup
+
+    italia = italia_soup.find_next(class_="cbp-offerta cbp-item cbp-item-fix italia")
+    while italia != None:
+        print(str(italia))
+        print(str(type(italia)))
+        with open("page_soup_italia.html", 'w') as file:
+            file.write(str(italia.prettify()))
+        italia = italia_soup.find_next(class_="cbp-offerta cbp-item cbp-item-fix italia")
+
+    lazio = lazio_soup.find_next(class_="cbp-offerta cbp-item cbp-item-fix lazio")
+    while lazio != None:
+        print(str(lazio))
+        print(str(type(lazio)))
+        with open("page_soup_lazio.html", 'w') as file:
+            file.write(str(lazio.prettify()))
+        lazio = lazio_soup.find_next(class_="cbp-offerta cbp-item cbp-item-fix lazio")
+
 
 
     """
