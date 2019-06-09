@@ -23,8 +23,6 @@ args = parser.parse_args()
 queries = dict()
 dbFile = "searches.tracked"
 url = "https://www.logilux.it/offerte-di-lavoro"
-#container_class = "cbp cbp-ready"
-container_class = "cbp-wrapper"
 italia_class = "cbp-offerta cbp-item cbp-item-fix italia"
 regione_class = "cbp-offerta cbp-item cbp-item-fix lazio"
 text_class = "cbp-l-grid-blog-desc text-subofferte"
@@ -35,6 +33,13 @@ def getContainerClass():
     page = requests.get(url)
     soup = BeautifulSoup(page.text, 'html.parser')
     soup = soup.find(id="js-grid-blog-posts")
+    for div in soup.find_all('div', class_="RegLog"):
+        div.decompose()
+    print(str(soup))
+    print(str(type(soup)))
+    with open("page_soup.html", 'w') as file:
+            file.write(str(soup.prettify()))
+    """
     lazio_soup=soup
     italia_soup=soup
 
@@ -53,7 +58,7 @@ def getContainerClass():
         with open("page_soup_lazio.html", 'w') as file:
             file.write(str(lazio.prettify()))
         lazio = lazio_soup.find_next(class_="cbp-offerta cbp-item cbp-item-fix lazio")
-
+"""
 
 
     """
