@@ -34,8 +34,16 @@ def getContainerClass():
     print("Scarico tutti gli annunci")
     page = requests.get(url)
     soup = BeautifulSoup(page.text, 'html.parser')
-    soup = soup.find_all(id="js-grid-blog-posts")
+    soup = soup.find(id="js-grid-blog-posts")
+    #soup = soup.find_all(class_="cbn-offerta")
+    soup = soup.find(class_="cbp-offerta cbp-item cbp-item-fix italia")
+    print(str(type(soup)))
     print(str(soup))
+    with open("page_soup.html", 'w') as file:
+        file.write(str(soup))
+
+
+    """
     container = soup.find(class_=italia_class)
     print("Filtro per Italia")
     italia = container.find_all(italia_class)
@@ -46,6 +54,7 @@ def getContainerClass():
     print("Filtro per Lazio")    
     lazio = container.find_all(class_=regione_class)
     print(str(lazio))
+    """
 
 if __name__ == '__main__':
     getContainerClass()
