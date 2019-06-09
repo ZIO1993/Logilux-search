@@ -29,12 +29,18 @@ text_class = "cbp-l-grid-blog-desc text-subofferte"
 
 def getContainerClass():
     global queries
-    print("Scarico tutti gli annunci")
+
+    print("Scarico la pagina")
     page = requests.get(url)
     soup = BeautifulSoup(page.text, 'html.parser')
+
+    print("Cerco il box degli annunci")
     soup = soup.find(id="js-grid-blog-posts")
+
+    print("Pulisco i risultati")
     for div in soup.find_all('div', class_="RegLog"):
         div.decompose()
+    
     print(str(soup))
     print(str(type(soup)))
     with open("page_soup.html", 'w') as file:
