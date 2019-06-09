@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import os.path
-import telegram_send
+#import telegram_send
 
 """
 parser = argparse.ArgumentParser()
@@ -34,9 +34,11 @@ def getContainerClass():
     print("Scarico tutti gli annunci")
     page = requests.get(url)
     soup = BeautifulSoup(page.text, 'html.parser')
-    container = soup.find(class_=container_class)
+    soup = soup.find_all(id="js-grid-blog-posts")
+    print(str(soup))
+    container = soup.find(class_=italia_class)
     print("Filtro per Italia")
-    italia = container.find_all(class_=italia_class)
+    italia = container.find_all(italia_class)
     print(str(italia))
     print("*************")
     print("*************")
@@ -45,7 +47,8 @@ def getContainerClass():
     lazio = container.find_all(class_=regione_class)
     print(str(lazio))
 
-getContainerClass()
+if __name__ == '__main__':
+    getContainerClass()
 
 """
 # load from file
