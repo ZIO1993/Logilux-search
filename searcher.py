@@ -36,11 +36,13 @@ def getContainerClass():
     soup = BeautifulSoup(page.text, 'html.parser')
     soup = soup.find(id="js-grid-blog-posts")
     #soup = soup.find_all(class_="cbn-offerta")
-    soup = soup.find(class_="cbp-offerta cbp-item cbp-item-fix italia")
-    print(str(type(soup)))
-    print(str(soup))
-    with open("page_soup.html", 'w') as file:
-        file.write(str(soup))
+    soup = soup.find_next(class_="cbp-offerta cbp-item cbp-item-fix italia")
+    while soup != None:
+        print(str(soup))
+        print(str(type(soup)))
+        with open("page_soup.html", 'w') as file:
+            file.write(str(soup.prettify()))
+        soup = soup.find_next(class_="cbp-offerta cbp-item cbp-item-fix italia")    
 
 
     """
