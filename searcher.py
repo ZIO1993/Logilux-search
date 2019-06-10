@@ -34,29 +34,42 @@ def getContainerClass():
     page = requests.get(url)
     soup = BeautifulSoup(page.text, 'html.parser')
 
-    print("Cerco il box degli annunci")
-    soup = soup.find(id="js-grid-blog-posts")
 
-    print("Pulisco i risultati")
+    print("Pulisco i risultati da Register e Login")
     for div in soup.find_all('div', class_="RegLog"):
         div.decompose()
     
-    print(str(soup))
+    print("Cerco il box degli annunci")
+    soup = soup.find(id="js-grid-blog-posts")
+    
+    #print(str(soup))
     print(str(type(soup)))
     with open("page_soup.html", 'w') as file:
             file.write(str(soup.prettify()))
-    """
-    lazio_soup=soup
-    italia_soup=soup
+    lazio = soup.find_all(class_="lazio", recursive=False)
+    x=1
+    for i in lazio:
+        desc = i
+        desc = desc.find(class_="cbp-l-grid-blog-desc text-subofferte")
+        desc = desc.select('p')[0].get_text()
+        print()
+        print("Descrizione annuncio "+str(x))
+        print(str(desc))
+        x+=1
+    #print(str(lazio))
 
-    italia = italia_soup.find_next(class_="cbp-offerta cbp-item cbp-item-fix italia")
+    """
+    italia_soup=soup
+    italia = italia_soup.find_all(class_="cbp-offerta cbp-item cbp-item-fix italia")
     while italia != None:
-        print(str(italia))
+        print("Italia ha "+str(len(str(italia)))+" caratteri" )
         print(str(type(italia)))
         with open("page_soup_italia.html", 'w') as file:
             file.write(str(italia.prettify()))
         italia = italia_soup.find_next(class_="cbp-offerta cbp-item cbp-item-fix italia")
-
+    """
+    """
+    lazio_soup=soup
     lazio = lazio_soup.find_next(class_="cbp-offerta cbp-item cbp-item-fix lazio")
     while lazio != None:
         print(str(lazio))
