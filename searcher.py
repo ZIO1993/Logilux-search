@@ -21,8 +21,22 @@ args = parser.parse_args()
 """
 
 queries = dict()
-dbFile = "searches.tracked"
+dbFile = "db.json"
 url = "https://www.logilux.it/offerte-di-lavoro"
+regioni_cercate=["italia", "lazio"]
+
+def save(fileName):
+    with open(fileName, 'w') as file:
+        file.write(json.dumps(queries))
+
+def load_from_file(fileName):
+    global queries
+    if not os.path.isfile(fileName):
+        return
+
+    with open(fileName) as file:
+        queries = json.load(file)
+
 
 def getContainerClass():
     global queries
@@ -40,34 +54,60 @@ def getContainerClass():
     soup = soup.find(id="js-grid-blog-posts")
 
     print("Inzio a filtrare i risultati per regione")
+    global regioni_cercate
+    for reg in regioni_cercate:
+        filter(soup, reg)
+    print("Ho concluso l'esecuzione")
 
-    filter(soup, "italia")
+def filter(soup, regione):
+    global dbFile
+    global queries
+    msg=[]
 
-def filter(soup, string):
-    item = soup.find_all(class_=string, recursive=False)
-    counter=1
+    item = soup.find_all(class_=regione, recursive=False)
+    #counter=1
     for iter in item:
         desc = iter
         luogo_data = iter
         ruolo = iter
         
         luogo_data = luogo_data.find(class_="coll-prov2-mod")
-        luogo_data = luogo_data.get_text()
+        luogo_data = str(luogo_data.get_text())
         ruolo = ruolo.find(class_="cbp-l-grid-blog-title grid-blog-title-fix")
-        ruolo = ruolo.get_text()
+        ruolo = str(ruolo.get_text())
         desc = desc.find(class_="cbp-l-grid-blog-desc text-subofferte")
-        desc = desc.select('p')[0].get_text()
+        desc = str(desc.select('p')[0].get_text())
+        """
         print()
         print("______________Annuncio "+str(counter)+"____________________")
         print("Luogo e Data: "+str(luogo_data))
         print(str(ruolo))
-        print("Descrizione: "+str(desc))
-
+        print("Descrizione: "+str(desc)) 
         counter+=1
+        """
+
+        if not queries.get(luogo_data):   # insert the new search
+            queries[luogo_data] = {regione: {ruolo: {"desc": desc}}}
+        else:   # add search results to dictionary
+            if not queries.get(luogo_data).get(regione).get(ruolo):   # found a new element
+                tmp = "Nuovo Evento trovato per "+regione+"\n"+ruolo+"\nLuogo e Data: "+luogo_data+"\n Descrizione:"+desc
+                msg.append(tmp)
+                queries[luogo_data][regione][ruolo] = {"desc": desc}
+
+    if len(msg) > 0:
+        #telegram_send.send(messages=msg)
+        print("\n".join(msg))
+        save(dbFile)
+    # print("queries file saved: ", queries)
+
 
 
 if __name__ == '__main__':
+    load_from_file(dbFile)
+    
     getContainerClass()
+
+    save(dbFile)
 
 """
 # load from file
