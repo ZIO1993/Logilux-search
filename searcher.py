@@ -110,15 +110,6 @@ if __name__ == '__main__':
     save(dbFile)
 
 """
-# load from file
-def load_from_file(fileName):
-    global queries
-    if not os.path.isfile(fileName):
-        return
-
-    with open(fileName) as file:
-        queries = json.load(file)
-
 
 def print_queries():
     global queries
@@ -180,12 +171,6 @@ def run_query(url, name):
         print("\n".join(msg))
         save(dbFile)
     # print("queries file saved: ", queries)
-
-
-def save(fileName):
-    with open(fileName, 'w') as file:
-        file.write(json.dumps(queries))
-
 
 if __name__ == '__main__':
 
