@@ -23,9 +23,6 @@ args = parser.parse_args()
 queries = dict()
 dbFile = "searches.tracked"
 url = "https://www.logilux.it/offerte-di-lavoro"
-italia_class = "cbp-offerta cbp-item cbp-item-fix italia"
-regione_class = "cbp-offerta cbp-item cbp-item-fix lazio"
-text_class = "cbp-l-grid-blog-desc text-subofferte"
 
 def getContainerClass():
     global queries
@@ -41,43 +38,32 @@ def getContainerClass():
     
     print("Cerco il box degli annunci")
     soup = soup.find(id="js-grid-blog-posts")
-    
-    #print(str(soup))
-    print(str(type(soup)))
-    with open("page_soup.html", 'w') as file:
-            file.write(str(soup.prettify()))
-    lazio = soup.find_all(class_="lazio", recursive=False)
-    x=1
-    for i in lazio:
-        desc = i
+
+    print("Inzio a filtrare i risultati per regione")
+
+    filter(soup, "italia")
+
+def filter(soup, string):
+    item = soup.find_all(class_=string, recursive=False)
+    counter=1
+    for iter in item:
+        desc = iter
+        luogo_data = iter
+        ruolo = iter
+        
+        luogo_data = luogo_data.find(class_="coll-prov2-mod")
+        luogo_data = luogo_data.get_text()
+        ruolo = ruolo.find(class_="cbp-l-grid-blog-title grid-blog-title-fix")
+        ruolo = ruolo.get_text()
         desc = desc.find(class_="cbp-l-grid-blog-desc text-subofferte")
         desc = desc.select('p')[0].get_text()
         print()
-        print("Descrizione annuncio "+str(x))
-        print(str(desc))
-        x+=1
-    #print(str(lazio))
+        print("______________Annuncio "+str(counter)+"____________________")
+        print("Luogo e Data: "+str(luogo_data))
+        print(str(ruolo))
+        print("Descrizione: "+str(desc))
 
-    """
-    italia_soup=soup
-    italia = italia_soup.find_all(class_="cbp-offerta cbp-item cbp-item-fix italia")
-    while italia != None:
-        print("Italia ha "+str(len(str(italia)))+" caratteri" )
-        print(str(type(italia)))
-        with open("page_soup_italia.html", 'w') as file:
-            file.write(str(italia.prettify()))
-        italia = italia_soup.find_next(class_="cbp-offerta cbp-item cbp-item-fix italia")
-    """
-    """
-    lazio_soup=soup
-    lazio = lazio_soup.find_next(class_="cbp-offerta cbp-item cbp-item-fix lazio")
-    while lazio != None:
-        print(str(lazio))
-        print(str(type(lazio)))
-        with open("page_soup_lazio.html", 'w') as file:
-            file.write(str(lazio.prettify()))
-        lazio = lazio_soup.find_next(class_="cbp-offerta cbp-item cbp-item-fix lazio")
-"""
+        counter+=1
 
 
 if __name__ == '__main__':
