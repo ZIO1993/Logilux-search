@@ -1,3 +1,2 @@
-# subito-it-searcher
-
-BeautifulSoup toy example running queries and scraping results on a popular italian ad website
+# Logilux Searcher Bot
+This bot notifies on the telegram channel when new ads are published on the Logilux website
