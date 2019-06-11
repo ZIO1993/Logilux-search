@@ -8,7 +8,7 @@ import time
 import telegram_send
 
 #Variabili globali
-minuti = 0
+minuti = 10
 queries = dict()
 dbFile = "db.json"
 url = "https://www.logilux.it/offerte-di-lavoro"
@@ -27,7 +27,7 @@ def load_from_file(fileName):
         queries = json.load(file)
 
 
-def getContainerClass():
+def getPage():
     global queries
 
     print("Scarico la pagina")
@@ -80,6 +80,6 @@ def filter(soup, regione):
 if __name__ == '__main__':
     while True:
         load_from_file(dbFile)
-        getContainerClass()
+        getPage()
         save(dbFile)
         time.sleep(minuti * 60)
