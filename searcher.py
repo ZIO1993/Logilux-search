@@ -52,10 +52,8 @@ def getPage():
 def filter(soup, regione):
     global dbFile
     global queries
-    #msg=[]
 
     item = soup.find_all(class_=regione, recursive=False)
-    #counter=1
     for iter in item:
         desc = iter
         luogo_data = iter
@@ -68,10 +66,9 @@ def filter(soup, regione):
         desc = desc.find(class_="cbp-l-grid-blog-desc text-subofferte")
         desc = str(desc.select('p')[0].get_text())
 
-        if not queries.get(luogo_data):   # insert the new search
+        if not queries.get(luogo_data):
             queries[luogo_data] = {regione: {ruolo: {"desc": desc}}}
             tmp = "Nuovo Evento trovato per "+regione+"\n"+ruolo+"\nLuogo e Data: "+luogo_data+"\n\n Descrizione:"+desc
-                #msg.append(tmp)
             queries[luogo_data][regione][ruolo] = {"desc": desc}
             telegram_send.send(messages=[tmp])
             print(tmp)
