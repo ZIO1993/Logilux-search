@@ -1,5 +1,6 @@
 #!/usr/bin/env python3.7
 
+import time
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -13,6 +14,11 @@ queries = dict()
 dbFile = "db.json"
 url = "https://www.logilux.it/offerte-di-lavoro"
 regioni_cercate = ["italia", "lazio"]
+
+def print_time():
+    ora = time.strftime("%H:%M:%S")
+    data = time.strftime("%d/%m/%Y")
+    print(ora+" - "+data)
 
 def save(fileName):
     with open(fileName, 'w') as file:
@@ -76,7 +82,9 @@ def filter(soup, regione):
 
 if __name__ == '__main__':
     while True:
+        print_time()
         load_from_file(dbFile)
         getPage()
         save(dbFile)
+        print_time()
         time.sleep(minuti * 60)
