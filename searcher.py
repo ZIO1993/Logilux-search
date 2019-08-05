@@ -9,6 +9,7 @@ import time
 import telegram_send
 
 #Variabili globali
+telegram_conf="telegram-send.conf"
 minuti = 10
 queries = dict()
 dbFile = "db.json"
@@ -76,7 +77,7 @@ def filter(soup, regione):
             queries[luogo_data] = {regione: {ruolo: {"desc": desc}}}
             tmp = "Nuovo Evento trovato per "+regione+"\n"+ruolo+"\nLuogo e Data: "+luogo_data+"\n\n Descrizione:"+desc
             queries[luogo_data][regione][ruolo] = {"desc": desc}
-            telegram_send.send(messages=[tmp])
+            telegram_send.send(messages=[tmp], conf=telegram_conf)
             print(tmp)
         save(dbFile)
 
