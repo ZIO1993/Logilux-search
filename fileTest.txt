@@ -1,0 +1,2109 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="ie" xmlns="http://www.w3.org/1999/xhtml" xml:lang="it-IT" lang="it-IT"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="it-IT" xml:lang="it-IT" xmlns="http://www.w3.org/1999/xhtml">
+ <!--<![endif]-->
+ <head>
+  <script async="" id="www-widgetapi-script" src="https://s.ytimg.com/yts/jsbin/www-widgetapi-vflhiN9BI/www-widgetapi.js" type="text/javascript">
+  </script>
+  <script id="YTAPI" src="https://www.youtube.com/iframe_api?v=3.2.1">
+  </script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async="" crossorigin="anonymous" src="https://connect.facebook.net/it_IT/sdk.js?hash=df644193240592ae8a363edf23a3cf32&amp;ua=modern_es6">
+  </script>
+  <script id="facebook-jssdk" src="https://connect.facebook.net/it_IT/sdk.js#xfbml=1&amp;version=v2.12&amp;appId=431986917257839">
+  </script>
+  <script async="" src="https://www.gstatic.com/recaptcha/releases/66WEle60vY1w2WveBS-1ZMFs/recaptcha__it.js" type="text/javascript">
+  </script>
+  <script async="" src="https://www.google-analytics.com/analytics.js" type="text/javascript">
+  </script>
+  <script async="" charset="UTF-8" src="https://consent.cookiebot.com/5b58f272-3367-444a-90c6-178c2a132c4e/cc.js?renew=false&amp;referer=www.logilux.it&amp;dnt=false&amp;forceshow=false&amp;cbid=5b58f272-3367-444a-90c6-178c2a132c4e&amp;whitelabel=false&amp;brandid=Cookiebot&amp;framework=" type="text/javascript">
+  </script>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-16807686-1">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	
+	  gtag('config', 'UA-16807686-1');
+  </script>
+  <script async="" data-cbid="5b58f272-3367-444a-90c6-178c2a132c4e" id="Cookiebot" src="https://consent.cookiebot.com/uc.js" type="text/javascript">
+  </script>
+  <!-- Basic Page Needs -->
+  <meta charset="utf-8"/>
+  <meta content="#db5945" name="theme-color"/>
+  <meta content="Lavora con Logilux, candidandoti ai nostri eventi e proposte di lavoro. Ogni giorno pubblichiamo nuove proposte e collaborazioni." name="description"/>
+  <meta content="agenzia di eventi, offerte di lavoro, lavora come hostess, lavora come promoter, lavora come steward, lavora come modella, lavora come , lavora con logilux " name="keywords"/>
+  <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+  <title>
+   Logilux - Le nostre offerte di lavoro regionali
+  </title>
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+  <link href="https://www.logilux.it/stylesheets/bootstrap.css" rel="stylesheet" type="text/css"/>
+  <link href="https://www.logilux.it/stylesheets/style.css" rel="stylesheet" type="text/css"/>
+  <link href="https://www.logilux.it/asset/revolution/css/layers.css" rel="stylesheet" type="text/css"/>
+  <link href="https://www.logilux.it/asset/revolution/css/settings.css" rel="stylesheet" type="text/css"/>
+  <link href="https://www.logilux.it/stylesheets/responsive.css" rel="stylesheet" type="text/css"/>
+  <link href="https://www.logilux.it/stylesheets/animate.css" rel="stylesheet" type="text/css"/>
+  <!-- Favicon and touch icons  -->
+  <link href="https://www.logilux.it/icon/apple-touch-icon-48.png" rel="apple-touch-icon-precomposed" sizes="48x48"/>
+  <link href="https://www.logilux.it/icon/apple-touch-icon-32.png" rel="apple-touch-icon-precomposed"/>
+  <link href="https://www.logilux.it/icon/favicon.ico" rel="shortcut icon"/>
+  <!--[if lt IE 9]>
+        <script src="javascript/html5shiv.js"></script>
+        <script src="javascript/respond.min.js"></script>
+    <![endif]-->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.4/css/select2.min.css" rel="stylesheet"/>
+  <link href="https://www.logilux.it/stylesheets/css-fix.css" rel="stylesheet" type="text/css"/>
+  <link href="https://www.logilux.it/stylesheets/global-fix.css" rel="stylesheet" type="text/css"/>
+  <script src="https://www.google.com/recaptcha/api.js">
+  </script>
+  <style id="CookieConsentStateDisplayStyles" type="text/css">
+   .cookieconsent-optin-preferences,.cookieconsent-optin-statistics,.cookieconsent-optin-marketing,.cookieconsent-optin{display:none;}.cookieconsent-optout-preferences,.cookieconsent-optout-statistics,.cookieconsent-optout-marketing,.cookieconsent-optout{display:block;display:initial;}
+  </style>
+  <style type="text/css">
+   .fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset&gt;div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title&gt;span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}
+  </style>
+  <style id="fit-vids-style">
+   .fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}
+  </style>
+ </head>
+ <body class="header-sticky">
+  <!-- Preloader -->
+  <!-- Boxed -->
+  <div class="boxed">
+   <div class="top_header">
+    <div class="container">
+     <div class="row">
+      <div class="header-wrap clearfix">
+       <div class="logo-wrap">
+        <div class="col-md-2 col-sm-6 col-xs-6 div_logo_main">
+         <a href="https://www.logilux.it">
+          <img alt="logo_lgx" class="logo_main" src="https://www.logilux.it/images/site/logo_lgx.png"/>
+         </a>
+        </div>
+        <!-- Header -->
+        <header class="header header-classic clearfix mobile_vers" id="header">
+         <div class="container">
+          <div class="row">
+           <div class="header-wrap clearfix">
+            <div class="col-md-2">
+             <div class="logo mgl2" id="logo">
+             </div>
+             <!-- /.logo -->
+             <div class="btn-menu">
+              <span>
+              </span>
+             </div>
+             <!-- //mobile menu button -->
+            </div>
+            <div class="col-md-10">
+             <div class="nav-wrap">
+              <!-- /.mainnav -->
+             </div>
+             <!-- /.nav-wrap -->
+            </div>
+           </div>
+           <!-- /.header-inner -->
+          </div>
+          <!-- /.row -->
+         </div>
+        </header>
+        <nav class="mainnav" id="mainnav-mobi" style="display: none;">
+         <ul class="menu">
+          <li class="login_seconday">
+           <a href="https://www.logilux.it/browse/home-utente.php">
+            IL TUO MENU
+           </a>
+           <span class="btn-submenu">
+           </span>
+           <ul class="submenu right-sub-menu" style="display: none;">
+            <li>
+             <a href="https://www.logilux.it/browse/profilo.php">
+              IL TUO PROFILO
+             </a>
+            </li>
+            <li>
+             <a href="https://www.logilux.it/browse/dati-personali.php">
+              MODIFICA DATI
+             </a>
+            </li>
+            <li>
+             <a href="https://www.logilux.it/browse/dati-upload-foto.php">
+              MODIFICA FOTO
+             </a>
+            </li>
+            <li>
+             <a href="https://www.logilux.it/browse/miei-eventi.php">
+              I MIEI EVENTI
+             </a>
+            </li>
+            <li>
+             <a href="https://www.logilux.it/browse/test-attitudinale.php">
+              TEST ATTITUDINALI
+             </a>
+            </li>
+            <li>
+             <a href="https://www.logilux.it/browse/logout.php">
+              LOGOUT
+             </a>
+            </li>
+           </ul>
+           <!-- /.submenu -->
+          </li>
+          <li class="active">
+           <a href="#">
+            IL GRUPPO
+           </a>
+           <span class="btn-submenu">
+           </span>
+           <ul class="submenu" style="display: none;">
+            <li>
+             <a href="https://www.logilux.it/chi-siamo">
+              CHI SIAMO
+             </a>
+            </li>
+            <li>
+             <a href="https://www.logilux.it/il-database">
+              IL DATABASE
+             </a>
+            </li>
+            <li>
+             <a href="https://www.logilux.it/divisioni">
+              DIVISIONI
+             </a>
+            </li>
+            <li>
+             <a href="https://www.logilux.it/case-history">
+              CASE HISTORY
+             </a>
+            </li>
+            <li>
+             <a href="https://www.logilux.it/collaborazioni">
+              COLLABORAZIONI
+             </a>
+            </li>
+            <li>
+             <a href="https://www.logilux.it/team">
+              IL TEAM
+             </a>
+            </li>
+           </ul>
+           <!-- /.submenu -->
+          </li>
+          <li>
+           <a href="#">
+            SERVIZI
+           </a>
+           <span class="btn-submenu">
+           </span>
+           <ul class="submenu" style="display: none;">
+            <li>
+             <a href="https://www.logilux.it/personale-per-eventi">
+              RISORSE UMANE
+             </a>
+            </li>
+            <li>
+             <a href="https://www.logilux.it/eventi">
+              EVENTI
+             </a>
+            </li>
+            <li>
+             <a href="https://www.logilux.it/logilux-factory">
+              COMUNICAZIONE
+             </a>
+            </li>
+            <li>
+             <a href="https://www.logilux.it/tecnologie">
+              TECNOLOGIE
+             </a>
+             <span class="btn-submenu">
+             </span>
+             <ul class="submenu2" style="display: none;">
+              <li>
+               <a href="https://www.logilux.it/sala-multimediale">
+                SALA MULTIMEDIALE
+               </a>
+              </li>
+              <li>
+               <a href="https://www.logilux.it/applicazioni">
+                APPLICAZIONI
+               </a>
+              </li>
+              <li>
+               <a href="https://www.logilux.it/accrediti">
+                ACCREDITI
+               </a>
+              </li>
+              <li>
+               <a href="https://www.logilux.it/segway">
+                SEGWAY
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+           <!-- /.submenu -->
+          </li>
+          <li>
+           <a href="#">
+            DATABASE
+           </a>
+           <span class="btn-submenu">
+           </span>
+           <ul class="submenu" style="display: none;">
+            <li>
+             <a href="https://www.logilux.it/database/area/hostess">
+              HOSTESS
+             </a>
+            </li>
+            <li>
+             <a href="https://www.logilux.it/database/area/steward">
+              STEWARD
+             </a>
+            </li>
+            <li>
+             <a href="https://www.logilux.it/database/area/promoter">
+              PROMOTER
+             </a>
+            </li>
+            <li>
+             <a href="https://www.logilux.it/database/area/modelle">
+              MODELLE
+             </a>
+            </li>
+           </ul>
+           <!-- /.submenu -->
+          </li>
+          <li>
+           <a href="https://www.logilux.it/gallery">
+            GALLERY
+           </a>
+          </li>
+          <li>
+           <a href="https://www.logilux.it/contents">
+            CONTENTS
+           </a>
+          </li>
+          <li>
+           <a href="https://www.logilux.it/contatti">
+            CONTATTI
+           </a>
+          </li>
+          <li class="login">
+           <a href="https://www.logilux.it/browse/home-utente.php">
+            IL MIO MENU
+           </a>
+           <span class="btn-submenu">
+           </span>
+           <ul class="submenu right-sub-menu" style="display: none;">
+            <li>
+             <a href="https://www.logilux.it/browse/profilo.php">
+              IL TUO PROFILO
+             </a>
+            </li>
+            <li>
+             <a href="https://www.logilux.it/browse/dati-personali.php">
+              MODIFICA DATI
+             </a>
+            </li>
+            <li>
+             <a href="https://www.logilux.it/browse/dati-upload-foto.php">
+              MODIFICA FOTO
+             </a>
+            </li>
+            <li>
+             <a href="https://www.logilux.it/browse/miei-eventi.php">
+              I MIEI EVENTI
+             </a>
+            </li>
+            <li>
+             <a href="https://www.logilux.it/browse/test-attitudinale.php">
+              TEST ATTITUDINALI
+             </a>
+            </li>
+            <li>
+             <a href="https://www.logilux.it/browse/logout.php">
+              LOGOUT
+             </a>
+            </li>
+           </ul>
+           <!-- /.submenu -->
+          </li>
+         </ul>
+         <!-- /.menu -->
+        </nav>
+        <div style="height: 0px; display: none;">
+        </div>
+        <!-- /.header -->
+        <div class="col-md-7 col-sm-12 col-xs-12 div_menu_main">
+         <div class="top_menu_header">
+          <ul class="top_menu">
+           <li>
+            <a href="https://www.logilux.it/creazione-profilo">
+             ENTRA NEL TEAM
+            </a>
+           </li>
+           <li class="li-separator">
+            |
+           </li>
+           <li>
+            <a href="https://www.logilux.it/preventivo">
+             CHIEDI UN PREVENTIVO
+            </a>
+           </li>
+           <li class="li-separator">
+            |
+           </li>
+           <li>
+            <a href="https://www.logilux.it/offerte-di-lavoro ">
+             OFFERTE DI LAVORO
+            </a>
+           </li>
+           <li class="li-separator">
+            |
+           </li>
+           <li>
+            <a href="#" onclick="change_language('1')">
+             EN
+            </a>
+           </li>
+           <li class="hide-on-mob li-separator">
+            |
+           </li>
+          </ul>
+          <br/>
+          <ul class="social-links social-icons-spec">
+           <li>
+            <a href="https://www.facebook.com/logilux.agenzia.hostess" target="_blank">
+             <i class="social_facebook">
+             </i>
+            </a>
+           </li>
+           <li>
+            <a href="https://www.instagram.com/logiluxhostessagency" target="_blank">
+             <i class="social_instagram">
+             </i>
+            </a>
+           </li>
+           <li>
+            <a href="https://twitter.com/logilux" target="_blank">
+             <i class="social_twitter">
+             </i>
+            </a>
+           </li>
+           <li>
+            <a href="https://it.linkedin.com/company/logilux---agenzia-di-hostess-e-promoter" target="_blank">
+             <i class="social_linkedin">
+             </i>
+            </a>
+           </li>
+           <li>
+            <a href="https://www.flickr.com/photos/logilux_hostess_promoter/" target="_blank">
+             <i class="social_flickr">
+             </i>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+        <div class="col-md-3 we_ps">
+         <img alt="we_provide_staff" class="slogan" src="https://www.logilux.it/images/site/we_provide_staff.png"/>
+        </div>
+       </div>
+       <!-- /.logo-wrap -->
+      </div>
+      <!-- /.header-inner -->
+     </div>
+     <!-- /.row -->
+    </div>
+   </div>
+   <!-- Header -->
+   <header class="header header-classic clearfix desk_vers" id="header">
+    <div class="container">
+     <div class="row">
+      <div class="header-wrap clearfix">
+       <div class="col-md-12">
+        <div class="nav-wrap">
+         <nav class="mainnav" id="mainnav">
+          <ul class="menu">
+           <!-- <li class="login_secondary"><a href="https://www.logilux.it/browse/login.php">ACCEDI</a></li>  -->
+           <li class="active">
+            <a href="#">
+             IL GRUPPO
+            </a>
+            <ul class="submenu">
+             <li>
+              <a href="https://www.logilux.it/chi-siamo">
+               CHI SIAMO
+              </a>
+             </li>
+             <li>
+              <a href="https://www.logilux.it/il-database">
+               IL DATABASE
+              </a>
+             </li>
+             <li>
+              <a href="https://www.logilux.it/divisioni">
+               DIVISIONI
+              </a>
+             </li>
+             <li>
+              <a href="https://www.logilux.it/case-history">
+               CASE HISTORY
+              </a>
+             </li>
+             <li>
+              <a href="https://www.logilux.it/collaborazioni">
+               COLLABORAZIONI
+              </a>
+             </li>
+             <li>
+              <a href="https://www.logilux.it/team">
+               IL TEAM
+              </a>
+             </li>
+            </ul>
+            <!-- /.submenu -->
+           </li>
+           <li>
+            SERVIZI
+            <ul class="submenu">
+             <li>
+              <a href="https://www.logilux.it/personale-per-eventi">
+               RISORSE UMANE
+              </a>
+             </li>
+             <li>
+              <a href="https://www.logilux.it/eventi">
+               EVENTI
+              </a>
+             </li>
+             <li>
+              <a href="https://www.logilux.it/logilux-factory">
+               COMUNICAZIONE
+              </a>
+             </li>
+             <li>
+              <a href="https://www.logilux.it/tecnologie">
+               TECNOLOGIE
+              </a>
+              <ul class="submenu2">
+               <li>
+                <a href="https://www.logilux.it/sala-multimediale">
+                 SALA MULTIMEDIALE
+                </a>
+               </li>
+               <li>
+                <a href="https://www.logilux.it/applicazioni">
+                 APPLICAZIONI
+                </a>
+               </li>
+               <li>
+                <a href="https://www.logilux.it/accrediti">
+                 ACCREDITI
+                </a>
+               </li>
+               <li>
+                <a href="https://www.logilux.it/segway">
+                 SEGWAY
+                </a>
+               </li>
+              </ul>
+             </li>
+            </ul>
+            <!-- /.submenu -->
+           </li>
+           <li>
+            DATABASE
+            <ul class="submenu">
+             <li>
+              <a href="https://www.logilux.it/database/area/hostess">
+               HOSTESS
+              </a>
+             </li>
+             <li>
+              <a href="https://www.logilux.it/database/area/steward">
+               STEWARD
+              </a>
+             </li>
+             <li>
+              <a href="https://www.logilux.it/database/area/promoter">
+               PROMOTER
+              </a>
+             </li>
+             <li>
+              <a href="https://www.logilux.it/database/area/modelle">
+               MODELLE
+              </a>
+             </li>
+            </ul>
+            <!-- /.submenu -->
+           </li>
+           <li>
+            <a href="https://www.logilux.it/gallery">
+             GALLERY
+            </a>
+           </li>
+           <li>
+            <a href="https://www.logilux.it/contents">
+             CONTENTS
+            </a>
+           </li>
+           <li>
+            <a href="https://www.logilux.it/contatti">
+             CONTATTI
+            </a>
+           </li>
+           <li class="login">
+            <a href="https://www.logilux.it/browse/logout.php">
+             LOGOUT
+            </a>
+            <ul class="submenu right-sub-menu">
+             <li>
+              <a href="https://www.logilux.it/browse/profilo.php">
+               IL TUO PROFILO
+              </a>
+             </li>
+             <li>
+              <a href="https://www.logilux.it/browse/dati-personali.php">
+               MODIFICA DATI
+              </a>
+             </li>
+             <li>
+              <a href="https://www.logilux.it/browse/dati-upload-foto.php">
+               MODIFICA FOTO
+              </a>
+             </li>
+             <li>
+              <a href="https://www.logilux.it/browse/miei-eventi.php">
+               I MIEI EVENTI
+              </a>
+             </li>
+             <li>
+              <a href="https://www.logilux.it/browse/test-attitudinale.php">
+               TEST ATTITUDINALI
+              </a>
+             </li>
+             <li>
+              <a href="https://www.logilux.it/browse/logout.php">
+               LOGOUT
+              </a>
+             </li>
+            </ul>
+            <!-- /.submenu -->
+           </li>
+          </ul>
+          <!-- /.menu -->
+         </nav>
+         <!-- /.mainnav -->
+        </div>
+        <!-- /.nav-wrap -->
+       </div>
+      </div>
+      <!-- /.header-inner -->
+     </div>
+     <!-- /.row -->
+    </div>
+   </header>
+   <div style="height: 0px; display: none;">
+   </div>
+   <!-- /.header -->
+   <div class="desk_submenu">
+    <div class="container">
+     <div class="row">
+      <div class="header-wrap clearfix">
+       <div class="col-md-1">
+       </div>
+       <div class="col-md-11">
+        <div class="nav-wrap">
+         <nav class="mainnav" id="mainnav2">
+          <ul class="new-submenu">
+           <li class="login ">
+            <a href="https://www.logilux.it/browse/home-utente.php">
+             LA TUA HOMEPAGE
+            </a>
+           </li>
+           <li>
+            <a href="https://www.logilux.it/browse/profilo.php">
+             IL TUO PROFILO
+            </a>
+           </li>
+           <li>
+            <a href="https://www.logilux.it/browse/dati-personali.php">
+             MODIFICA DATI
+            </a>
+           </li>
+           <li>
+            <a href="https://www.logilux.it/browse/dati-upload-foto.php">
+             MODIFICA FOTO
+            </a>
+           </li>
+           <li>
+            <a href="https://www.logilux.it/browse/miei-eventi.php">
+             I MIEI EVENTI
+            </a>
+           </li>
+           <li class="you_are_here">
+            <a href="https://www.logilux.it/offerte-di-lavoro">
+             OFFERTE DI LAVORO
+            </a>
+           </li>
+           <li>
+            <a href="https://www.logilux.it/browse/test-attitudinale.php">
+             TEST ATTITUDINALI
+            </a>
+           </li>
+          </ul>
+          <!-- /.submenu -->
+         </nav>
+         <!-- /.mainnav -->
+        </div>
+        <!-- /.nav-wrap -->
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class=" fb_reset" id="fb-root">
+    <div style="position: absolute; top: -10000px; width: 0px; height: 0px;">
+     <div>
+      <iframe allow="encrypted-media" allowfullscreen="true" allowtransparency="true" aria-hidden="true" frameborder="0" id="fb_xdm_frame_https" name="fb_xdm_frame_https" scrolling="no" src="https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f37816efe9874c4&amp;origin=https%3A%2F%2Fwww.logilux.it" style="border: none;" tabindex="-1" title="Facebook Cross Domain Communication Frame">
+      </iframe>
+     </div>
+     <div>
+     </div>
+    </div>
+   </div>
+   <script>
+    (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/it_IT/sdk.js#xfbml=1&amp;version=v2.12&amp;appId=431986917257839';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+   </script>
+   <link href="../asset/cubeportfolio/css/cubeportfolio.min.css" rel="stylesheet"/>
+   <section class="flat-row row-small-extra registration-section">
+    <div class="container">
+     <div class="row">
+      <div class="col-md-12">
+       <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+         <a href="#">
+          HOME
+         </a>
+        </li>
+        <li class="breadcrumb-item active">
+         OFFERTE DI LAVORO
+        </li>
+       </ol>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="flat-row row-small-extra registration-section">
+    <div class="container">
+     <div class="row company_indent scheda_fix">
+      <div class="col-md-12">
+       <h1 class="title3 mb-20">
+        <center>
+         Offerte di lavoro
+        </center>
+       </h1>
+       <br/>
+       <p class="txt3-mod3 mt-20 mb-40 col-md-12">
+        In questa pagina sono contenute alcune
+        <strong>
+         proposte di collaborazione
+        </strong>
+        , rivolte a
+        <strong>
+         hostess
+        </strong>
+        ,
+        <strong>
+         promoter
+        </strong>
+        ,
+        <strong>
+         steward
+        </strong>
+        ,
+        <strong>
+         modelle
+        </strong>
+        e
+        <strong>
+         modelli
+        </strong>
+        che vogliono collaborare con Logilux.
+        <br/>
+        Invia la tua candidatura o inoltra la proposta a qualcuno di tua conoscenza che potrebbe essere interessato.
+        <br/>
+        Se non hai ancora creato la tua scheda personale, effettua subito la registrazione gratuita per poter visualizzare tutti i dettagli delle nostre attività.
+        <br/>
+        <br/>
+        Per visualizzare il singolo lavoro, ti basterà cliccare su “
+        <strong>
+         Vai alla proposta
+        </strong>
+        ” e candidarti.
+Se, invece, non sei ancora in possesso del tuo profilo Logilux, registrati senza alcun impegno per poterti proporre come personale per promozioni, congressi, sfilate, fiere, concorsi ed eventi sportivi o aziendali.
+        <br/>
+       </p>
+      </div>
+      <div class="col-md-12">
+       <h4 class="text-center mb-10">
+        Scegli la tua Regione:
+       </h4>
+       <div class="clearfix">
+        <div class="cbp-l-filters-list cbp-l-filters-left" id="js-filters-blog-posts">
+         <div class="cbp-filter-item-active cbp-filter-item cbp-l-filters-list-first" data-filter="*">
+          TUTTI (
+          <div class="cbp-filter-counter">
+           17
+          </div>
+          )
+         </div>
+         <div class="cbp-filter-item" data-filter=".abruzzo">
+          Abruzzo (
+          <div class="cbp-filter-counter">
+           1
+          </div>
+          )
+         </div>
+         <div class="cbp-filter-item" data-filter=".lazio">
+          Lazio (
+          <div class="cbp-filter-counter">
+           5
+          </div>
+          )
+         </div>
+         <div class="cbp-filter-item" data-filter=".lombardia">
+          Lombardia (
+          <div class="cbp-filter-counter">
+           5
+          </div>
+          )
+         </div>
+         <div class="cbp-filter-item" data-filter=".marche">
+          Marche (
+          <div class="cbp-filter-counter">
+           1
+          </div>
+          )
+         </div>
+         <div class="cbp-filter-item" data-filter=".piemonte">
+          Piemonte (
+          <div class="cbp-filter-counter">
+           1
+          </div>
+          )
+         </div>
+         <div class="cbp-filter-item" data-filter=".sicilia">
+          Sicilia (
+          <div class="cbp-filter-counter">
+           2
+          </div>
+          )
+         </div>
+         <div class="cbp-filter-item" data-filter=".toscana">
+          Toscana (
+          <div class="cbp-filter-counter">
+           2
+          </div>
+          )
+         </div>
+        </div>
+        <div class="cbp-search cbp-l-filters-right">
+         <input autocomplete="off" class="cbp-search-input" data-search=".cbp-l-grid-blog-title" id="js-search-blog-posts" placeholder="Search by title" type="text"/>
+         <div class="cbp-search-icon">
+         </div>
+        </div>
+       </div>
+       <div class="cbp cbp-ready" id="js-grid-blog-posts" style="height: 5440px;">
+        <div class="cbp-wrapper-outer">
+         <div class="cbp-wrapper">
+          <div class="cbp-offerta cbp-item cbp-item-fix abruzzo" style="width: 324px; left: 0px; top: 0px;">
+           <div class="cbp-item-wrapper">
+            <div class="cbp-caption-defaultWrap">
+             <div class="cbp-caption-activeWrap cbp-caption-activeWrap-mod">
+              <div class="cbp-l-caption-alignCenter">
+              </div>
+             </div>
+             <div class="activeWrap-mod">
+              Abruzzo
+             </div>
+             <a href="https://www.logilux.it/browse/evento.php?id=dekjwal7cxyh06o8pu93">
+              <img alt="" height="200" src="https://www.logilux.it/assets/images/data/files/Eventi%20in%20corso/Logilux_Agenzia_consegne_Hostess_Steward_1v1.jpg"/>
+              <div class="coll-prov2-mod">
+               PESCARA
+               <label class="coll-subtitle ml-5">
+                -
+               </label>
+               <label class="coll-subtitle ml-5">
+                novembre/dicembre 2019
+               </label>
+              </div>
+             </a>
+            </div>
+            <a href="https://www.logilux.it/browse/evento.php?id=dekjwal7cxyh06o8pu93">
+             <div class="cbp-l-grid-blog-title grid-blog-title-fix">
+              <label class="txt-offerte">
+               Ruolo:
+               <i>
+                RESPONSABILE CONSEGNE
+               </i>
+              </label>
+              <br/>
+              <label class="title-subofferte">
+               Assistenza clienti
+              </label>
+             </div>
+            </a>
+            <div class="cbp-l-grid-blog-desc text-subofferte">
+             <a href="https://www.logilux.it/browse/evento.php?id=dekjwal7cxyh06o8pu93">
+              <p>
+               Selezioniamo un collaboratore o una collaboratrice per attività di consegna di piccoli prodotti elettronici.
+              </p>
+              <br/>
+             </a>
+             <div class="RegLog">
+              <a href="https://www.logilux.it/browse/evento.php?id=dekjwal7cxyh06o8pu93">
+              </a>
+              <a class="btn btn-success btn-sm btn-offerte" href="https://www.logilux.it/browse/evento.php?id=dekjwal7cxyh06o8pu93" role="button">
+               Vai alla proposta
+              </a>
+             </div>
+            </div>
+            <div class="cbp-l-grid-blog-comments">
+            </div>
+           </div>
+          </div>
+          <div class="cbp-offerta cbp-item cbp-item-fix lazio" style="width: 324px; left: 344px; top: 0px;">
+           <div class="cbp-item-wrapper">
+            <div class="cbp-caption-defaultWrap">
+             <div class="cbp-caption-activeWrap cbp-caption-activeWrap-mod">
+              <div class="cbp-l-caption-alignCenter">
+              </div>
+             </div>
+             <div class="activeWrap-mod">
+              Lazio
+             </div>
+             <a href="https://www.logilux.it/browse/evento.php?id=eqj0y7kx4s1murlnth8o">
+              <img alt="" height="200" src="https://www.logilux.it/assets/images/data/files/EVENTI%20PUBBLICI/Logilux_Hostess_Congress_Agency_22xc.jpg"/>
+              <div class="coll-prov2-mod">
+               Roma
+               <label class="coll-subtitle ml-5">
+                -
+               </label>
+               <label class="coll-subtitle ml-5">
+                8 ottobre 2019
+               </label>
+              </div>
+             </a>
+            </div>
+            <a href="https://www.logilux.it/browse/evento.php?id=eqj0y7kx4s1murlnth8o">
+             <div class="cbp-l-grid-blog-title grid-blog-title-fix">
+              <label class="txt-offerte">
+               Ruolo:
+               <i>
+                HOSTESS
+               </i>
+              </label>
+              <br/>
+              <label class="title-subofferte">
+               Convegno Groupama - 8 ottobre 2019 - Roma
+              </label>
+             </div>
+            </a>
+            <div class="cbp-l-grid-blog-desc text-subofferte">
+             <a href="https://www.logilux.it/browse/evento.php?id=eqj0y7kx4s1murlnth8o">
+              <p>
+               Logilux seleziona n° 1 hostess per importante convegno che si terrà l'8 ottobre 2019. Richiediamo esperienza pregressa in ambito congressuale, massima professionalità e puntualità. Candidati anche tu!
+              </p>
+              <br/>
+             </a>
+             <div class="RegLog">
+              <a href="https://www.logilux.it/browse/evento.php?id=eqj0y7kx4s1murlnth8o">
+              </a>
+              <a class="btn btn-success btn-sm btn-offerte" href="https://www.logilux.it/browse/evento.php?id=eqj0y7kx4s1murlnth8o" role="button">
+               Vai alla proposta
+              </a>
+             </div>
+            </div>
+            <div class="cbp-l-grid-blog-comments">
+            </div>
+           </div>
+          </div>
+          <div class="cbp-offerta cbp-item cbp-item-fix lazio" style="width: 324px; left: 0px; top: 610px;">
+           <div class="cbp-item-wrapper">
+            <div class="cbp-caption-defaultWrap">
+             <div class="cbp-caption-activeWrap cbp-caption-activeWrap-mod">
+              <div class="cbp-l-caption-alignCenter">
+              </div>
+             </div>
+             <div class="activeWrap-mod">
+              Lazio
+             </div>
+             <a href="https://www.logilux.it/browse/evento.php?id=zqu4g63jip0n8bxom12l">
+              <img alt="" height="200" src="https://www.logilux.it/assets/images/data/files/EVENTI%20PUBBLICI/Haloween%202.jpg"/>
+              <div class="coll-prov2-mod">
+               ROMA
+               <label class="coll-subtitle ml-5">
+                -
+               </label>
+               <label class="coll-subtitle ml-5">
+                31 ottobre 2019
+               </label>
+              </div>
+             </a>
+            </div>
+            <a href="https://www.logilux.it/browse/evento.php?id=zqu4g63jip0n8bxom12l">
+             <div class="cbp-l-grid-blog-title grid-blog-title-fix">
+              <label class="txt-offerte">
+               Ruolo:
+               <i>
+                ALLESTITORI
+               </i>
+              </label>
+              <br/>
+              <label class="title-subofferte">
+               Allestiamo una festa?
+              </label>
+             </div>
+            </a>
+            <div class="cbp-l-grid-blog-desc text-subofferte">
+             <a href="https://www.logilux.it/browse/evento.php?id=zqu4g63jip0n8bxom12l">
+              <p>
+               Stiamo selezionando allestitori per la notte di Halloween. I collaboratori ci aiuteranno a realizzare da zero la più terrificante scenografia della capitale. Invia la tua candidatura e unisciti a noi!
+              </p>
+              <br/>
+             </a>
+             <div class="RegLog">
+              <a href="https://www.logilux.it/browse/evento.php?id=zqu4g63jip0n8bxom12l">
+              </a>
+              <a class="btn btn-success btn-sm btn-offerte" href="https://www.logilux.it/browse/evento.php?id=zqu4g63jip0n8bxom12l" role="button">
+               Vai alla proposta
+              </a>
+             </div>
+            </div>
+            <div class="cbp-l-grid-blog-comments">
+            </div>
+           </div>
+          </div>
+          <div class="cbp-offerta cbp-item cbp-item-fix lazio" style="width: 324px; left: 344px; top: 610px;">
+           <div class="cbp-item-wrapper">
+            <div class="cbp-caption-defaultWrap">
+             <div class="cbp-caption-activeWrap cbp-caption-activeWrap-mod">
+              <div class="cbp-l-caption-alignCenter">
+              </div>
+             </div>
+             <div class="activeWrap-mod">
+              Lazio
+             </div>
+             <a href="https://www.logilux.it/browse/evento.php?id=oztfmkyix05apblh1g2v">
+              <img alt="" height="200" src="https://www.logilux.it/assets/images/data/files/EVENTI%20PUBBLICI/hALOWEEN.jpg"/>
+              <div class="coll-prov2-mod">
+               ROMA
+               <label class="coll-subtitle ml-5">
+                -
+               </label>
+               <label class="coll-subtitle ml-5">
+                31 ottobre 2019
+               </label>
+              </div>
+             </a>
+            </div>
+            <a href="https://www.logilux.it/browse/evento.php?id=oztfmkyix05apblh1g2v">
+             <div class="cbp-l-grid-blog-title grid-blog-title-fix">
+              <label class="txt-offerte">
+               Ruolo:
+               <i>
+                HOSTESS &amp; STEWARD
+               </i>
+              </label>
+              <br/>
+              <label class="title-subofferte">
+               Halloween con Logilux
+              </label>
+             </div>
+            </a>
+            <div class="cbp-l-grid-blog-desc text-subofferte">
+             <a href="https://www.logilux.it/browse/evento.php?id=oztfmkyix05apblh1g2v">
+              <p>
+               Selezioniamo hostess e steward coraggiosi per il party più spaventoso dell'anno. Non perdere l'occasione di lavorare e divertirti in un colpo solo in una location eccezionale. Dolcetto o scherzetto?
+              </p>
+              <br/>
+             </a>
+             <div class="RegLog">
+              <a href="https://www.logilux.it/browse/evento.php?id=oztfmkyix05apblh1g2v">
+              </a>
+              <a class="btn btn-success btn-sm btn-offerte" href="https://www.logilux.it/browse/evento.php?id=oztfmkyix05apblh1g2v" role="button">
+               Vai alla proposta
+              </a>
+             </div>
+            </div>
+            <div class="cbp-l-grid-blog-comments">
+            </div>
+           </div>
+          </div>
+          <div class="cbp-offerta cbp-item cbp-item-fix lazio" style="width: 324px; left: 0px; top: 1220px;">
+           <div class="cbp-item-wrapper">
+            <div class="cbp-caption-defaultWrap">
+             <div class="cbp-caption-activeWrap cbp-caption-activeWrap-mod">
+              <div class="cbp-l-caption-alignCenter">
+              </div>
+             </div>
+             <div class="activeWrap-mod">
+              Lazio
+             </div>
+             <a href="https://www.logilux.it/browse/evento.php?id=ps8i6qxcgeml51j27k4b">
+              <img alt="" height="200" src="https://www.logilux.it/assets/images/data/files/EVENTI%20PUBBLICI/Logilux_Modelle_Studio_Fotografico_Roma_Milano_41424.jpg"/>
+              <div class="coll-prov2-mod">
+               Roma - Ostia
+               <label class="coll-subtitle ml-5">
+                -
+               </label>
+               <label class="coll-subtitle ml-5">
+                entro 15 novembre 2019
+               </label>
+              </div>
+             </a>
+            </div>
+            <a href="https://www.logilux.it/browse/evento.php?id=ps8i6qxcgeml51j27k4b">
+             <div class="cbp-l-grid-blog-title grid-blog-title-fix">
+              <label class="txt-offerte">
+               Ruolo:
+               <i>
+                MODELLA ADULTA
+               </i>
+              </label>
+              <br/>
+              <label class="title-subofferte">
+               Shooting
+              </label>
+             </div>
+            </a>
+            <div class="cbp-l-grid-blog-desc text-subofferte">
+             <a href="https://www.logilux.it/browse/evento.php?id=ps8i6qxcgeml51j27k4b">
+              <p>
+               Selezioniamo signore cinquantenni dai tratti somatici mediterranei. Preferibile taglia dalla 46 in su. Clicca per visualizzare tutti i dettagli.
+              </p>
+              <br/>
+             </a>
+             <div class="RegLog">
+              <a href="https://www.logilux.it/browse/evento.php?id=ps8i6qxcgeml51j27k4b">
+              </a>
+              <a class="btn btn-success btn-sm btn-offerte" href="https://www.logilux.it/browse/evento.php?id=ps8i6qxcgeml51j27k4b" role="button">
+               Vai alla proposta
+              </a>
+             </div>
+            </div>
+            <div class="cbp-l-grid-blog-comments">
+            </div>
+           </div>
+          </div>
+          <div class="cbp-offerta cbp-item cbp-item-fix lazio" style="width: 324px; left: 344px; top: 1220px;">
+           <div class="cbp-item-wrapper">
+            <div class="cbp-caption-defaultWrap">
+             <div class="cbp-caption-activeWrap cbp-caption-activeWrap-mod">
+              <div class="cbp-l-caption-alignCenter">
+              </div>
+             </div>
+             <div class="activeWrap-mod">
+              Lazio
+             </div>
+             <a href="https://www.logilux.it/browse/evento.php?id=rktaz9bhi53n8usqmfjp">
+              <img alt="" height="200" src="https://www.logilux.it/assets/images/data/files/EVENTI%20PUBBLICI/Logilux_Agenzia_promozione_Animazione_41jm.jpg"/>
+              <div class="coll-prov2-mod">
+               Roma
+               <label class="coll-subtitle ml-5">
+                -
+               </label>
+               <label class="coll-subtitle ml-5">
+                16 e 17 Novembre 2019
+               </label>
+              </div>
+             </a>
+            </div>
+            <a href="https://www.logilux.it/browse/evento.php?id=rktaz9bhi53n8usqmfjp">
+             <div class="cbp-l-grid-blog-title grid-blog-title-fix">
+              <label class="txt-offerte">
+               Ruolo:
+               <i>
+                PROMOTER
+               </i>
+              </label>
+              <br/>
+              <label class="title-subofferte">
+               LEGO TOUR - BUILD TO GIVE
+              </label>
+             </div>
+            </a>
+            <div class="cbp-l-grid-blog-desc text-subofferte">
+             <a href="https://www.logilux.it/browse/evento.php?id=rktaz9bhi53n8usqmfjp">
+              <p>
+               Hai anche tu una passione per i Lego? Attendiamo la tua candidatura per partecipare come promoter ad un evento con i famosi mattoncini!
+              </p>
+              <br/>
+             </a>
+             <div class="RegLog">
+              <a href="https://www.logilux.it/browse/evento.php?id=rktaz9bhi53n8usqmfjp">
+              </a>
+              <a class="btn btn-success btn-sm btn-offerte" href="https://www.logilux.it/browse/evento.php?id=rktaz9bhi53n8usqmfjp" role="button">
+               Vai alla proposta
+              </a>
+             </div>
+            </div>
+            <div class="cbp-l-grid-blog-comments">
+            </div>
+           </div>
+          </div>
+          <div class="cbp-offerta cbp-item cbp-item-fix lombardia" style="width: 324px; left: 0px; top: 1830px;">
+           <div class="cbp-item-wrapper">
+            <div class="cbp-caption-defaultWrap">
+             <div class="cbp-caption-activeWrap cbp-caption-activeWrap-mod">
+              <div class="cbp-l-caption-alignCenter">
+              </div>
+             </div>
+             <div class="activeWrap-mod">
+              Lombardia
+             </div>
+             <a href="https://www.logilux.it/browse/evento.php?id=jgdk2por9sc18v5yhqae">
+              <img alt="" height="200" src="https://www.logilux.it/assets/images/data/files/EVENTI%20PUBBLICI/Logilux_Agenzia_Hostess_Congresso_G7_Divise_407.jpg"/>
+              <div class="coll-prov2-mod">
+               Milano
+               <label class="coll-subtitle ml-5">
+                -
+               </label>
+               <label class="coll-subtitle ml-5">
+                7 ottobre 2019
+               </label>
+              </div>
+             </a>
+            </div>
+            <a href="https://www.logilux.it/browse/evento.php?id=jgdk2por9sc18v5yhqae">
+             <div class="cbp-l-grid-blog-title grid-blog-title-fix">
+              <label class="txt-offerte">
+               Ruolo:
+               <i>
+                HOSTESS
+               </i>
+              </label>
+              <br/>
+              <label class="title-subofferte">
+               Convegno Groupama - 7 ottobre 2019
+              </label>
+             </div>
+            </a>
+            <div class="cbp-l-grid-blog-desc text-subofferte">
+             <a href="https://www.logilux.it/browse/evento.php?id=jgdk2por9sc18v5yhqae">
+              <p>
+               Logilux seleziona n° 1 hostess per importante convegno che si terrà il 7 ottobre 2019. Richiediamo esperienza pregressa in ambito congressuale, massima professionalità e puntualità. Candidati anche tu!
+              </p>
+              <br/>
+             </a>
+             <div class="RegLog">
+              <a href="https://www.logilux.it/browse/evento.php?id=jgdk2por9sc18v5yhqae">
+              </a>
+              <a class="btn btn-success btn-sm btn-offerte" href="https://www.logilux.it/browse/evento.php?id=jgdk2por9sc18v5yhqae" role="button">
+               Vai alla proposta
+              </a>
+             </div>
+            </div>
+            <div class="cbp-l-grid-blog-comments">
+            </div>
+           </div>
+          </div>
+          <div class="cbp-offerta cbp-item cbp-item-fix lombardia" style="width: 324px; left: 344px; top: 1830px;">
+           <div class="cbp-item-wrapper">
+            <div class="cbp-caption-defaultWrap">
+             <div class="cbp-caption-activeWrap cbp-caption-activeWrap-mod">
+              <div class="cbp-l-caption-alignCenter">
+              </div>
+             </div>
+             <div class="activeWrap-mod">
+              Lombardia
+             </div>
+             <a href="https://www.logilux.it/browse/evento.php?id=l5y8g6zxjkp0o94r2hu7">
+              <img alt="" height="200" src="https://www.logilux.it/assets/images/data/files/EVENTI%20PUBBLICI/Logilux_Agenzia_promozione_Animazione_41jm.jpg"/>
+              <div class="coll-prov2-mod">
+               Bergamo
+               <label class="coll-subtitle ml-5">
+                -
+               </label>
+               <label class="coll-subtitle ml-5">
+                30 OTTOBRE/3 NOVEMBRE 2019
+               </label>
+              </div>
+             </a>
+            </div>
+            <a href="https://www.logilux.it/browse/evento.php?id=l5y8g6zxjkp0o94r2hu7">
+             <div class="cbp-l-grid-blog-title grid-blog-title-fix">
+              <label class="txt-offerte">
+               Ruolo:
+               <i>
+                PROMOTER/ANIMATORE/ANIMATRICE
+               </i>
+              </label>
+              <br/>
+              <label class="title-subofferte">
+               Promoter Lego
+              </label>
+             </div>
+            </a>
+            <div class="cbp-l-grid-blog-desc text-subofferte">
+             <a href="https://www.logilux.it/browse/evento.php?id=l5y8g6zxjkp0o94r2hu7">
+              <p>
+               Attendiamo la tua candidatura per partecipare come promoter ad un'attività con i famosi mattoncini Lego!
+              </p>
+              <br/>
+             </a>
+             <div class="RegLog">
+              <a href="https://www.logilux.it/browse/evento.php?id=l5y8g6zxjkp0o94r2hu7">
+              </a>
+              <a class="btn btn-success btn-sm btn-offerte" href="https://www.logilux.it/browse/evento.php?id=l5y8g6zxjkp0o94r2hu7" role="button">
+               Vai alla proposta
+              </a>
+             </div>
+            </div>
+            <div class="cbp-l-grid-blog-comments">
+            </div>
+           </div>
+          </div>
+          <div class="cbp-offerta cbp-item cbp-item-fix lombardia" style="width: 324px; left: 0px; top: 2440px;">
+           <div class="cbp-item-wrapper">
+            <div class="cbp-caption-defaultWrap">
+             <div class="cbp-caption-activeWrap cbp-caption-activeWrap-mod">
+              <div class="cbp-l-caption-alignCenter">
+              </div>
+             </div>
+             <div class="activeWrap-mod">
+              Lombardia
+             </div>
+             <a href="https://www.logilux.it/browse/evento.php?id=i17gy0846zxdet5mbfpq">
+              <img alt="" height="200" src="https://www.logilux.it/assets/images/data/files/EVENTI%20PUBBLICI/Logilux_Hostess_Steward_Congresso_Napoli_m234.jpg"/>
+              <div class="coll-prov2-mod">
+               Milano
+               <label class="coll-subtitle ml-5">
+                -
+               </label>
+               <label class="coll-subtitle ml-5">
+                7, 8 e 9 novembre 2019
+               </label>
+              </div>
+             </a>
+            </div>
+            <a href="https://www.logilux.it/browse/evento.php?id=i17gy0846zxdet5mbfpq">
+             <div class="cbp-l-grid-blog-title grid-blog-title-fix">
+              <label class="txt-offerte">
+               Ruolo:
+               <i>
+                HOSTESS ECM
+               </i>
+              </label>
+              <br/>
+              <label class="title-subofferte">
+               Congresso ECM - Milano
+              </label>
+             </div>
+            </a>
+            <div class="cbp-l-grid-blog-desc text-subofferte">
+             <a href="https://www.logilux.it/browse/evento.php?id=i17gy0846zxdet5mbfpq">
+              <p>
+               Siamo alla ricerca di hostess con esperienza in convegni ECM per prossimo evento che si terrà a Milano. Sei la risorsa che fa per noi? Attendiamo la tua candidatura.
+              </p>
+              <br/>
+             </a>
+             <div class="RegLog">
+              <a href="https://www.logilux.it/browse/evento.php?id=i17gy0846zxdet5mbfpq">
+              </a>
+              <a class="btn btn-success btn-sm btn-offerte" href="https://www.logilux.it/browse/evento.php?id=i17gy0846zxdet5mbfpq" role="button">
+               Vai alla proposta
+              </a>
+             </div>
+            </div>
+            <div class="cbp-l-grid-blog-comments">
+            </div>
+           </div>
+          </div>
+          <div class="cbp-offerta cbp-item cbp-item-fix lombardia" style="width: 324px; left: 344px; top: 2440px;">
+           <div class="cbp-item-wrapper">
+            <div class="cbp-caption-defaultWrap">
+             <div class="cbp-caption-activeWrap cbp-caption-activeWrap-mod">
+              <div class="cbp-l-caption-alignCenter">
+              </div>
+             </div>
+             <div class="activeWrap-mod">
+              Lombardia
+             </div>
+             <a href="https://www.logilux.it/browse/evento.php?id=41wmzkcql27bi0eosju8">
+              <img alt="" height="200" src="https://www.logilux.it/assets/images/data/files/EVENTI%20PUBBLICI/Logilux_Agenzia_Hostess_Congresso_G7_Divise_407.jpg"/>
+              <div class="coll-prov2-mod">
+               Milano
+               <label class="coll-subtitle ml-5">
+                -
+               </label>
+               <label class="coll-subtitle ml-5">
+                5-6-7-8 novembre 2019
+               </label>
+              </div>
+             </a>
+            </div>
+            <a href="https://www.logilux.it/browse/evento.php?id=41wmzkcql27bi0eosju8">
+             <div class="cbp-l-grid-blog-title grid-blog-title-fix">
+              <label class="txt-offerte">
+               Ruolo:
+               <i>
+                HOSTESS e STEWARD
+               </i>
+              </label>
+              <br/>
+              <label class="title-subofferte">
+               Congresso Milano 5-6-7-8 novembre 2019
+              </label>
+             </div>
+            </a>
+            <div class="cbp-l-grid-blog-desc text-subofferte">
+             <a href="https://www.logilux.it/browse/evento.php?id=41wmzkcql27bi0eosju8">
+              <p>
+               Stiamo selezionando hostess e steward per importante convegno che si terrà a Milano. Vuoi far parte del nostro staff? Può essere la tua occasione!
+              </p>
+              <br/>
+             </a>
+             <div class="RegLog">
+              <a href="https://www.logilux.it/browse/evento.php?id=41wmzkcql27bi0eosju8">
+              </a>
+              <a class="btn btn-success btn-sm btn-offerte" href="https://www.logilux.it/browse/evento.php?id=41wmzkcql27bi0eosju8" role="button">
+               Vai alla proposta
+              </a>
+             </div>
+            </div>
+            <div class="cbp-l-grid-blog-comments">
+            </div>
+           </div>
+          </div>
+          <div class="cbp-offerta cbp-item cbp-item-fix lombardia" style="width: 324px; left: 0px; top: 3050px;">
+           <div class="cbp-item-wrapper">
+            <div class="cbp-caption-defaultWrap">
+             <div class="cbp-caption-activeWrap cbp-caption-activeWrap-mod">
+              <div class="cbp-l-caption-alignCenter">
+              </div>
+             </div>
+             <div class="activeWrap-mod">
+              Lombardia
+             </div>
+             <a href="https://www.logilux.it/browse/evento.php?id=4cks2vb8apumlox0n9qr">
+              <img alt="" height="200" src="https://www.logilux.it/assets/images/data/files/EVENTI%20PUBBLICI/Logilux_Agenzia_promozione_Animazione_41jm.jpg"/>
+              <div class="coll-prov2-mod">
+               Milano
+               <label class="coll-subtitle ml-5">
+                -
+               </label>
+               <label class="coll-subtitle ml-5">
+                9 e 10 novembre 2019
+               </label>
+              </div>
+             </a>
+            </div>
+            <a href="https://www.logilux.it/browse/evento.php?id=4cks2vb8apumlox0n9qr">
+             <div class="cbp-l-grid-blog-title grid-blog-title-fix">
+              <label class="txt-offerte">
+               Ruolo:
+               <i>
+                PROMOTER
+               </i>
+              </label>
+              <br/>
+              <label class="title-subofferte">
+               LEGO TOUR - BUILD TO GIVE
+              </label>
+             </div>
+            </a>
+            <div class="cbp-l-grid-blog-desc text-subofferte">
+             <a href="https://www.logilux.it/browse/evento.php?id=4cks2vb8apumlox0n9qr">
+              <p>
+               Hai anche tu una passione per i Lego? Attendiamo la tua candidatura per partecipare come promoter ad un evento con i famosi mattoncini!
+              </p>
+              <br/>
+             </a>
+             <div class="RegLog">
+              <a href="https://www.logilux.it/browse/evento.php?id=4cks2vb8apumlox0n9qr">
+              </a>
+              <a class="btn btn-success btn-sm btn-offerte" href="https://www.logilux.it/browse/evento.php?id=4cks2vb8apumlox0n9qr" role="button">
+               Vai alla proposta
+              </a>
+             </div>
+            </div>
+            <div class="cbp-l-grid-blog-comments">
+            </div>
+           </div>
+          </div>
+          <div class="cbp-offerta cbp-item cbp-item-fix marche" style="width: 324px; left: 344px; top: 3050px;">
+           <div class="cbp-item-wrapper">
+            <div class="cbp-caption-defaultWrap">
+             <div class="cbp-caption-activeWrap cbp-caption-activeWrap-mod">
+              <div class="cbp-l-caption-alignCenter">
+              </div>
+             </div>
+             <div class="activeWrap-mod">
+              Marche
+             </div>
+             <a href="https://www.logilux.it/browse/evento.php?id=9j40p8nduiegwzmlfart">
+              <img alt="" height="200" src="https://www.logilux.it/assets/images/data/files/Eventi%20in%20corso/Logilux_Agenzia_consegne_Hostess_Steward_1v1.jpg"/>
+              <div class="coll-prov2-mod">
+               ANCONA
+               <label class="coll-subtitle ml-5">
+                -
+               </label>
+               <label class="coll-subtitle ml-5">
+                novembre/dicembre 2019
+               </label>
+              </div>
+             </a>
+            </div>
+            <a href="https://www.logilux.it/browse/evento.php?id=9j40p8nduiegwzmlfart">
+             <div class="cbp-l-grid-blog-title grid-blog-title-fix">
+              <label class="txt-offerte">
+               Ruolo:
+               <i>
+                RESPONSABILE CONSEGNE
+               </i>
+              </label>
+              <br/>
+              <label class="title-subofferte">
+               Assistenza clienti
+              </label>
+             </div>
+            </a>
+            <div class="cbp-l-grid-blog-desc text-subofferte">
+             <a href="https://www.logilux.it/browse/evento.php?id=9j40p8nduiegwzmlfart">
+              <p>
+               Selezioniamo un collaboratore o una collaboratrice per attività di consegna di piccoli prodotti elettronici.
+              </p>
+              <br/>
+             </a>
+             <div class="RegLog">
+              <a href="https://www.logilux.it/browse/evento.php?id=9j40p8nduiegwzmlfart">
+              </a>
+              <a class="btn btn-success btn-sm btn-offerte" href="https://www.logilux.it/browse/evento.php?id=9j40p8nduiegwzmlfart" role="button">
+               Vai alla proposta
+              </a>
+             </div>
+            </div>
+            <div class="cbp-l-grid-blog-comments">
+            </div>
+           </div>
+          </div>
+          <div class="cbp-offerta cbp-item cbp-item-fix piemonte" style="width: 324px; left: 0px; top: 3660px;">
+           <div class="cbp-item-wrapper">
+            <div class="cbp-caption-defaultWrap">
+             <div class="cbp-caption-activeWrap cbp-caption-activeWrap-mod">
+              <div class="cbp-l-caption-alignCenter">
+              </div>
+             </div>
+             <div class="activeWrap-mod">
+              Piemonte
+             </div>
+             <a href="https://www.logilux.it/browse/evento.php?id=1w9eku2gmnqyi0fszdbx">
+              <img alt="" height="200" src="https://www.logilux.it/assets/images/data/files/EVENTI%20PUBBLICI/Logilux_Promozione_Centri_Commerciali_21f.jpg"/>
+              <div class="coll-prov2-mod">
+               Carmagnola (TO)
+               <label class="coll-subtitle ml-5">
+                -
+               </label>
+               <label class="coll-subtitle ml-5">
+                dal 31 ottobre al 17 novembre 2019
+               </label>
+              </div>
+             </a>
+            </div>
+            <a href="https://www.logilux.it/browse/evento.php?id=1w9eku2gmnqyi0fszdbx">
+             <div class="cbp-l-grid-blog-title grid-blog-title-fix">
+              <label class="txt-offerte">
+               Ruolo:
+               <i>
+                Promoter
+               </i>
+              </label>
+              <br/>
+              <label class="title-subofferte">
+               Concorso a premi
+              </label>
+             </div>
+            </a>
+            <div class="cbp-l-grid-blog-desc text-subofferte">
+             <a href="https://www.logilux.it/browse/evento.php?id=1w9eku2gmnqyi0fszdbx">
+              <p>
+               Logilux seleziona promoter per un concorso a premi, il cui ruolo sarà quello di gestire lo stand ufficiale e supportare i clienti che vorranno partecipare all'estrazione finale.
+              </p>
+              <br/>
+             </a>
+             <div class="RegLog">
+              <a href="https://www.logilux.it/browse/evento.php?id=1w9eku2gmnqyi0fszdbx">
+              </a>
+              <a class="btn btn-success btn-sm btn-offerte" href="https://www.logilux.it/browse/evento.php?id=1w9eku2gmnqyi0fszdbx" role="button">
+               Vai alla proposta
+              </a>
+             </div>
+            </div>
+            <div class="cbp-l-grid-blog-comments">
+            </div>
+           </div>
+          </div>
+          <div class="cbp-offerta cbp-item cbp-item-fix sicilia" style="width: 324px; left: 344px; top: 3660px;">
+           <div class="cbp-item-wrapper">
+            <div class="cbp-caption-defaultWrap">
+             <div class="cbp-caption-activeWrap cbp-caption-activeWrap-mod">
+              <div class="cbp-l-caption-alignCenter">
+              </div>
+             </div>
+             <div class="activeWrap-mod">
+              Sicilia
+             </div>
+             <a href="https://www.logilux.it/browse/evento.php?id=z4inobtl67x0g3au5e1s">
+              <img alt="" height="200" src="https://www.logilux.it/assets/images/data/files/Eventi%20in%20corso/Logilux_Agenzia_consegne_Hostess_Steward_1v1.jpg"/>
+              <div class="coll-prov2-mod">
+               AGRIGENTO
+               <label class="coll-subtitle ml-5">
+                -
+               </label>
+               <label class="coll-subtitle ml-5">
+                novembre/dicembre 2019
+               </label>
+              </div>
+             </a>
+            </div>
+            <a href="https://www.logilux.it/browse/evento.php?id=z4inobtl67x0g3au5e1s">
+             <div class="cbp-l-grid-blog-title grid-blog-title-fix">
+              <label class="txt-offerte">
+               Ruolo:
+               <i>
+                RESPONSABILE CONSEGNE
+               </i>
+              </label>
+              <br/>
+              <label class="title-subofferte">
+               Assistenza clienti
+              </label>
+             </div>
+            </a>
+            <div class="cbp-l-grid-blog-desc text-subofferte">
+             <a href="https://www.logilux.it/browse/evento.php?id=z4inobtl67x0g3au5e1s">
+              <p>
+               Selezioniamo un collaboratore o una collaboratrice per attività di consegna di piccoli prodotti elettronici.
+              </p>
+              <br/>
+             </a>
+             <div class="RegLog">
+              <a href="https://www.logilux.it/browse/evento.php?id=z4inobtl67x0g3au5e1s">
+              </a>
+              <a class="btn btn-success btn-sm btn-offerte" href="https://www.logilux.it/browse/evento.php?id=z4inobtl67x0g3au5e1s" role="button">
+               Vai alla proposta
+              </a>
+             </div>
+            </div>
+            <div class="cbp-l-grid-blog-comments">
+            </div>
+           </div>
+          </div>
+          <div class="cbp-offerta cbp-item cbp-item-fix sicilia" style="width: 324px; left: 0px; top: 4270px;">
+           <div class="cbp-item-wrapper">
+            <div class="cbp-caption-defaultWrap">
+             <div class="cbp-caption-activeWrap cbp-caption-activeWrap-mod">
+              <div class="cbp-l-caption-alignCenter">
+              </div>
+             </div>
+             <div class="activeWrap-mod">
+              Sicilia
+             </div>
+             <a href="https://www.logilux.it/browse/evento.php?id=hismr42j7gponx0y8vt6">
+              <img alt="" height="200" src="https://www.logilux.it/assets/images/data/files/Eventi%20in%20corso/Logilux_Agenzia_consegne_Hostess_Steward_1v1.jpg"/>
+              <div class="coll-prov2-mod">
+               SIRACUSA
+               <label class="coll-subtitle ml-5">
+                -
+               </label>
+               <label class="coll-subtitle ml-5">
+                novembre/dicembre 2019
+               </label>
+              </div>
+             </a>
+            </div>
+            <a href="https://www.logilux.it/browse/evento.php?id=hismr42j7gponx0y8vt6">
+             <div class="cbp-l-grid-blog-title grid-blog-title-fix">
+              <label class="txt-offerte">
+               Ruolo:
+               <i>
+                RESPONSABILE CONSEGNE
+               </i>
+              </label>
+              <br/>
+              <label class="title-subofferte">
+               Assistenza clienti
+              </label>
+             </div>
+            </a>
+            <div class="cbp-l-grid-blog-desc text-subofferte">
+             <a href="https://www.logilux.it/browse/evento.php?id=hismr42j7gponx0y8vt6">
+              <p>
+               Selezioniamo un collaboratore o una collaboratrice per attività di consegna di piccoli prodotti elettronici.
+              </p>
+              <br/>
+             </a>
+             <div class="RegLog">
+              <a href="https://www.logilux.it/browse/evento.php?id=hismr42j7gponx0y8vt6">
+              </a>
+              <a class="btn btn-success btn-sm btn-offerte" href="https://www.logilux.it/browse/evento.php?id=hismr42j7gponx0y8vt6" role="button">
+               Vai alla proposta
+              </a>
+             </div>
+            </div>
+            <div class="cbp-l-grid-blog-comments">
+            </div>
+           </div>
+          </div>
+          <div class="cbp-offerta cbp-item cbp-item-fix toscana" style="width: 324px; left: 344px; top: 4270px;">
+           <div class="cbp-item-wrapper">
+            <div class="cbp-caption-defaultWrap">
+             <div class="cbp-caption-activeWrap cbp-caption-activeWrap-mod">
+              <div class="cbp-l-caption-alignCenter">
+              </div>
+             </div>
+             <div class="activeWrap-mod">
+              Toscana
+             </div>
+             <a href="https://www.logilux.it/browse/evento.php?id=jmnpur2v4o1b8tw50c36">
+              <img alt="" height="200" src="https://www.logilux.it/assets/images/data/files/EVENTI%20PUBBLICI/Logilux_Hostess_ECM_12ew.jpg"/>
+              <div class="coll-prov2-mod">
+               Viareggio (LU)
+               <label class="coll-subtitle ml-5">
+                -
+               </label>
+               <label class="coll-subtitle ml-5">
+                9 novembre 2019
+               </label>
+              </div>
+             </a>
+            </div>
+            <a href="https://www.logilux.it/browse/evento.php?id=jmnpur2v4o1b8tw50c36">
+             <div class="cbp-l-grid-blog-title grid-blog-title-fix">
+              <label class="txt-offerte">
+               Ruolo:
+               <i>
+                HOSTESS ECM
+               </i>
+              </label>
+              <br/>
+              <label class="title-subofferte">
+               Corso ECM
+              </label>
+             </div>
+            </a>
+            <div class="cbp-l-grid-blog-desc text-subofferte">
+             <a href="https://www.logilux.it/browse/evento.php?id=jmnpur2v4o1b8tw50c36">
+              <p>
+               Selezioniamo n°1 Hostess per Convegno Medico con esperienza pregressa in ambito ECM. Clicca qui per vedere tutti i dettagli della proposta.
+              </p>
+              <br/>
+             </a>
+             <div class="RegLog">
+              <a href="https://www.logilux.it/browse/evento.php?id=jmnpur2v4o1b8tw50c36">
+              </a>
+              <a class="btn btn-success btn-sm btn-offerte" href="https://www.logilux.it/browse/evento.php?id=jmnpur2v4o1b8tw50c36" role="button">
+               Vai alla proposta
+              </a>
+             </div>
+            </div>
+            <div class="cbp-l-grid-blog-comments">
+            </div>
+           </div>
+          </div>
+          <div class="cbp-offerta cbp-item cbp-item-fix toscana" style="width: 324px; left: 0px; top: 4880px;">
+           <div class="cbp-item-wrapper">
+            <div class="cbp-caption-defaultWrap">
+             <div class="cbp-caption-activeWrap cbp-caption-activeWrap-mod">
+              <div class="cbp-l-caption-alignCenter">
+              </div>
+             </div>
+             <div class="activeWrap-mod">
+              Toscana
+             </div>
+             <a href="https://www.logilux.it/browse/evento.php?id=z3rkjyiu59c12efoqh8p">
+              <img alt="" height="200" src="https://www.logilux.it/assets/images/data/files/Eventi%20in%20corso/Logilux_Agenzia_Promoter_Tour_Promozionale_12bbv.jpg"/>
+              <div class="coll-prov2-mod">
+               VIAREGGIO (LU)
+               <label class="coll-subtitle ml-5">
+                -
+               </label>
+               <label class="coll-subtitle ml-5">
+                4 e 5 Novembre 2019
+               </label>
+              </div>
+             </a>
+            </div>
+            <a href="https://www.logilux.it/browse/evento.php?id=z3rkjyiu59c12efoqh8p">
+             <div class="cbp-l-grid-blog-title grid-blog-title-fix">
+              <label class="txt-offerte">
+               Ruolo:
+               <i>
+                ALLESTITORE
+               </i>
+              </label>
+              <br/>
+              <label class="title-subofferte">
+               Tour marchio profumeria - Allestimento
+              </label>
+             </div>
+            </a>
+            <div class="cbp-l-grid-blog-desc text-subofferte">
+             <a href="https://www.logilux.it/browse/evento.php?id=z3rkjyiu59c12efoqh8p">
+              <p>
+               Selezioniamo allestitori di sesso maschile (
+               <strong>
+                anche alla prima esperienza
+               </strong>
+               ) per supportare la preparazione di una sala dedicata ad un evento serale, e successivamente disallestire, la piccola scenografia di un'esposizione di un noto marchio cosmetico.
+              </p>
+              <br/>
+             </a>
+             <div class="RegLog">
+              <a href="https://www.logilux.it/browse/evento.php?id=z3rkjyiu59c12efoqh8p">
+              </a>
+              <a class="btn btn-success btn-sm btn-offerte" href="https://www.logilux.it/browse/evento.php?id=z3rkjyiu59c12efoqh8p" role="button">
+               Vai alla proposta
+              </a>
+             </div>
+            </div>
+            <div class="cbp-l-grid-blog-comments">
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <!-- Bottom -->
+   <!-- Footer -->
+   <footer class="footer">
+    <div class="top-menu">
+     <div class="container">
+      <div class="row">
+       <div class="col-md-12 col-sm-12">
+        <div class="ft-top-menu">
+         <label class="footer-preventivo">
+          <a href="https://www.logilux.it/preventivo">
+           CHIEDI UN PREVENTIVO
+          </a>
+         </label>
+         <label class="top-menu_inner">
+          <a href="https://www.logilux.it/contatti">
+           CONTATTI
+          </a>
+         </label>
+         <span class="not-mobile">
+          |
+         </span>
+         <label class="top-menu_inner">
+          <a href="https://www.logilux.it/gallery">
+           GALLERY
+          </a>
+         </label>
+         <span class="not-mobile">
+          |
+         </span>
+         <label class="top-menu_inner">
+          <a href="https://www.logilux.it/contents">
+           CONTENTS
+          </a>
+         </label>
+         <label class="footer-access">
+          CIAO ALDO, ACCESSO EFFETTUATO
+         </label>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="container">
+     <div class="row">
+      <div class="col-md-3 col-sm-3 col-xs-12 no-padding ft-fix">
+       <div class="col-md-12 col-sm-12 col-xs-12">
+        <label class="title-footer">
+         <a href="https://www.logilux.it">
+          © Logilux Srl
+         </a>
+        </label>
+        <p>
+         Via Salvatore Talamo, 20
+         <br/>
+         00177 Roma
+         <br/>
+         P.IVA 10923301005
+         <br/>
+         REA: RM 1264578
+         <br/>
+         Cap. Soc. 20K € I.V.
+         <br/>
+        </p>
+       </div>
+       <!-- /.col-md-3 -->
+      </div>
+      <div class="col-md-5 col-sm-9 col-xs-12 no-padding ft-fix">
+       <div class="col-md-4 col-sm-4 col-xs-12">
+        <label class="title-footer">
+         IL GRUPPO
+        </label>
+        <p>
+         <a href="https://www.logilux.it/chi-siamo">
+          CHI SIAMO
+         </a>
+         <br/>
+         <a href="https://www.logilux.it/il-database">
+          DATABASE
+         </a>
+         <br/>
+         <a href="https://www.logilux.it/divisioni">
+          DIVISIONI
+         </a>
+         <br/>
+         <a href="https://www.logilux.it/case-history">
+          CASE HISTORY
+         </a>
+         <br/>
+         <a href="https://www.logilux.it/collaborazioni">
+          COLLABORAZIONI
+         </a>
+         <br/>
+         <a href="https://www.logilux.it/team">
+          IL TEAM
+         </a>
+         <br/>
+        </p>
+       </div>
+       <!-- /.col-md-3 -->
+       <div class="col-md-4 col-sm-4 col-xs-12">
+        <label class="title-footer">
+         SERVIZI
+        </label>
+        <p>
+         <a href="https://www.logilux.it/personale-per-eventi">
+          RISORSE UMANE
+         </a>
+         <br/>
+         <a href="https://www.logilux.it/eventi">
+          EVENTI
+         </a>
+         <br/>
+         <a href="https://www.logilux.it/logilux-factory">
+          COMUNICAZIONE
+         </a>
+         <br/>
+         <a href="https://www.logilux.it/tecnologie">
+          TECNOLOGIE
+         </a>
+         <br/>
+        </p>
+       </div>
+       <!-- /.col-md-3 -->
+       <div class="col-md-4 col-sm-4 col-xs-12">
+        <label class="title-footer">
+         DATABASE
+        </label>
+        <p>
+         <a href="https://www.logilux.it/database?area=hostess">
+          HOSTESS
+         </a>
+         <br/>
+         <a href="https://www.logilux.it/database?area=steward">
+          STEWARD
+         </a>
+         <br/>
+         <a href="https://www.logilux.it/database?area=promoter">
+          PROMOTER
+         </a>
+         <br/>
+         <a href="https://www.logilux.it/database?area=modelle">
+          MODELLE
+         </a>
+         <br/>
+        </p>
+       </div>
+       <!-- /.col-md-3 -->
+      </div>
+      <div class="col-md-4 col-sm-12 col-xs-12 no-padding">
+       <div class="col-md-12">
+        <div class="work-with-us">
+         <a href="https://www.logilux.it/creazione-profilo">
+          <button class="flat-btn comment-submit">
+           LAVORA CON NOI
+          </button>
+         </a>
+        </div>
+        <p class="info-text">
+         Ti piacerebbe collaborare con Logilux? Compila i campi e invia il CV. Invieremo le proposte di collaborazione sulla base di quelli che sono i tuoi interessi, il tuo percorso di studio e la tua provenienza.
+        </p>
+       </div>
+       <!-- /.col-md-3 -->
+      </div>
+     </div>
+     <!-- /.row -->
+    </div>
+    <!-- /.container -->
+   </footer>
+   <!-- Bottom -->
+   <div class="bottom">
+    <div class="container">
+     <ul class="social-links2">
+      <li>
+       <a href="https://www.facebook.com/logilux.agenzia.hostess/" target="_blank">
+        <i class="social_facebook">
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="https://www.instagram.com/logiluxhostessagency" target="_blank">
+        <i class="social_instagram">
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="https://twitter.com/logilux" target="_blank">
+        <i class="social_twitter">
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="https://it.linkedin.com/company/logilux---agenzia-di-hostess-e-promoter" target="_blank">
+        <i class="social_linkedin">
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="https://www.flickr.com/photos/logilux_hostess_promoter/" target="_blank">
+        <i class="social_flickr">
+        </i>
+       </a>
+      </li>
+     </ul>
+     <div class="copyright">
+      ALL RIGHTS RESERVED |
+      <a href="https://www.logilux.it/browse/privacy-policy.php">
+       PRIVACY POLICY
+      </a>
+      |
+      <a href="https://www.logilux.it/browse/cookie-law.php">
+       COOKIE LAW
+      </a>
+     </div>
+     <div class="credits float-right">
+      <a>
+       Powered by Niveda Solutions
+      </a>
+     </div>
+    </div>
+    <!-- /.container -->
+   </div>
+   <!-- bottom -->
+   <!-- Go Top -->
+   <a class="go-top">
+    <i class="fa fa-angle-up">
+    </i>
+   </a>
+  </div>
+  <!-- Boxed -->
+  <!-- Boxed -->
+  <!-- Javascript -->
+  <script src="https://www.logilux.it/javascript/jquery.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/javascript/bootstrap.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/javascript/jquery.easing.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/javascript/imagesloaded.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/javascript/jquery.isotope.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/javascript/jquery-countTo.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/javascript/jquery-waypoints.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/javascript/jquery.magnific-popup.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/javascript/jquery.cookie.js" type="text/javascript">
+  </script>
+  <script async="" src="https://www.logilux.it/javascript/jquery.fitvids.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/javascript/parallax.min.js" type="text/javascript">
+  </script>
+  <script async="" src="https://www.logilux.it/javascript/smoothscroll.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/javascript/jquery.flexslider-min.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/javascript/owl.carousel.min.js" type="text/javascript">
+  </script>
+  <script async="" src="https://www.logilux.it/javascript/jquery-validate.js" type="text/javascript">
+  </script>
+  <script async="" src="https://www.logilux.it/javascript/jquery.mb.YTPlayer.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/javascript/main.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   function change_language(value){
+var operation = "cnl";
+	$.ajax({
+	    url: "https://www.logilux.it/data-forms/change_language.php", 
+	    type: "POST",
+	    data: {operation:operation, value:value},
+	    success: function (data) {
+		  window.location.href = "https://www.logilux.it/offerte-di-lavoro"
+	    },
+	    error: function (jXHR, textStatus, errorThrown) {
+	        alert(errorThrown);
+	    }
+	});
+}
+  </script>
+  <!-- Revolution Slider -->
+  <script src="https://www.logilux.it/asset/revolution/js/jquery.themepunch.tools.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/asset/revolution/js/jquery.themepunch.revolution.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/asset/revolution/js/slider.min.js" type="text/javascript">
+  </script>
+  <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
+  <script src="https://www.logilux.it/asset/revolution/js/extensions/revolution.extension.actions.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/asset/revolution/js/extensions/revolution.extension.carousel.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/asset/revolution/js/extensions/revolution.extension.kenburn.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/asset/revolution/js/extensions/revolution.extension.layeranimation.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/asset/revolution/js/extensions/revolution.extension.migration.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/asset/revolution/js/extensions/revolution.extension.navigation.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/asset/revolution/js/extensions/revolution.extension.parallax.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/asset/revolution/js/extensions/revolution.extension.slideanims.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.logilux.it/asset/revolution/js/extensions/revolution.extension.video.min.js" type="text/javascript">
+  </script>
+  <!-- Javascript -->
+  <!-- load cubeportfolio jQuery plugin -->
+  <script src="../asset/cubeportfolio/js/jquery.cubeportfolio.min.js" type="text/javascript">
+  </script>
+  <script src="../asset/cubeportfolio/js/main_blog.js" type="text/javascript">
+  </script>
+ </body>
+</html>
