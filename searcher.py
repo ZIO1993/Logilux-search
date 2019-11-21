@@ -42,7 +42,7 @@ def print_time():
 
 def save(fileName):
     with open(fileName, 'w') as file:
-        file.write(json.dumps(queries))
+        file.write(json.dumps(queries, indent=4))
 
 def load_from_file(fileName):
     global queries
